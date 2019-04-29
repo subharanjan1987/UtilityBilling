@@ -1,0 +1,12 @@
+C:\Users\773649\Desktop\CityPowerCompany\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\773649\Desktop\CityPowerCompany\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\773649\Desktop\CityPowerCompany\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\773649\Desktop\CityPowerCompany\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\773649\Desktop\CityPowerCompany\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\773649\Desktop\CityPowerCompany\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\773649\Desktop\OOSD\CityPowerCompany\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\773649\Desktop\OOSD\CityPowerCompany\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\773649\Desktop\OOSD\CityPowerCompany\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\773649\Desktop\OOSD\CityPowerCompany\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\773649\Desktop\OOSD\CityPowerCompany\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\773649\Desktop\OOSD\CityPowerCompany\CustomerData\obj\Debug\CustomerData.pdb
