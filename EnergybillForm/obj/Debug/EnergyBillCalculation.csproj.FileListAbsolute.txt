@@ -1,0 +1,10 @@
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\EnergyBillCalculation.csprojAssemblyReference.cache
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmElectricityBill.resources
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\EnergyBillCalculation.csproj.GenerateResource.cache
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\EnergyBillCalculation.csproj.CoreCompileInputs.cache
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\773649\source\repos\Energy Bill Calculation\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
